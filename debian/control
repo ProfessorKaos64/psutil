@@ -1,0 +1,32 @@
+Source: psutil
+Maintainer: Giampaolo Rodola <g.rodola <at> gmail <dot> com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all-dev (>= 2.6.6-3), debhelper (>= 9)
+Standards-Version: 3.9.1
+
+Package: python-psutil
+Architecture: any
+Depends: ${misc:Depends}, ${python:Depends}, ${shlibs:Depends}
+Description: psutil is a cross-platform library for retrieving informatio
+ .. image:: https://pypip.in/d/psutil/badge.png
+     :target: https://crate.io/packages/psutil/
+     :alt: Download this month
+ .
+ .. image:: https://pypip.in/v/psutil/badge.png
+     :target: https://pypi.python.org/pypi/psutil/
+     :alt: Latest version
+ .
+ .. image:: https://pypip.in/license/psutil/badge.png
+     :target: https://pypi.python.org/pypi/psutil/
+     :alt: License
+ .
+ ===========
+ Quick links
+ ===========
+ .
+ * `Home page <http://code.google.com/p/psutil>`_
+ * `Download <https://pypi.python.org/pypi?:action=display&name=psutil#downloads>`_
+ * `Blog <http://grodola.blogspot.com/search/label/psutil>`_
+ * `Documentation <http://pythonhosted.org/psutil/>`_
+

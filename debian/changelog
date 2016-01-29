@@ -1,3 +1,11 @@
+psutil (2.1.1-1+git+bsos1) brewmaster; urgency=low
+
+  * Packaged deb for SteamOS-Tools
+  * See: packages.libregeek.org
+  * Upstream authors and source: https://github.com/ProfessorKaos64/psutil
+
+ -- SteamOS-Tools Signing Key <mdeguzis@gmail.com>  Fri, 29 Jan 2016 17:27:06 -0500
+
 psutil (2.1.1-1) unstable; urgency=low
 
   * source package automatically created by stdeb 0.8.2

@@ -1,4 +1,4 @@
-Source: psutil
+Source: python-psutil
 Maintainer: Giampaolo Rodola <g.rodola <at> gmail <dot> com>
 Section: python
 Priority: optional
